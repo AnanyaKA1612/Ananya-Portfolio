@@ -1,16 +1,45 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Ananya K. A. | Developer Portfolio
 
-Currently, two official plugins are available:
+Welcome to my personal developer portfolio!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a BCA student and aspiring Full Stack Developer passionate about building creative, responsive, and user-friendly web applications.
 
-## React Compiler
+## About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Currently pursuing BCA (2024–2027).
+- Learning and building projects using the MERN stack.
+- Interested in frontend and backend development.
+- Focused on continuous learning and improving my development skills.
 
-## Expanding the ESLint configuration
+## Technologies & Tools
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Bootstrap
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+- VS Code
+
+## Featured Projects
+
+- **MarketPro** – Marketing Campaign Performance & Lead Conversion Platform (In Progress)
+- **Counter Dashboard**
+- **BeatBox Music Library**
+- **ChromaGrid**
+- **Technika Course Listing**
+- **Destiny Travels API**
+
+## Connect With Me
+
+- **GitHub:** https://github.com/AnanyaKA1612
+- **LinkedIn:** https://www.linkedin.com/in/ananya-ka-a16561427/
+- **Email:** Kaananya1@gmail.com
+
+---
+
+*Stay curious. Build boldly. Keep growing.*
